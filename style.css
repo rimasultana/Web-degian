@@ -1,31 +1,45 @@
-h2{
-    margin: 20px;
-    text-align: center;
-    color: red;
-font-size: 45px;
+h2 {
+  margin: 20px;
+  text-align: center;
+  color: red;
+  font-size: 45px;
 }
-.baba{
-display: flex;
-justify-content: space-between;
-box-sizing: border-box;
+.baba {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
 }
-.chela{
-    width: 45%;
-    background-color: blueviolet;
-    padding: 10px;
+.chela {
+  width: 45%;
+  background-color: blueviolet;
+  padding: 10px;
 }
-.maya{
-    width: 45%;
-    background-color: aqua;
-    padding: 10px;
+.maya {
+  width: 45%;
+  background-color: aqua;
+  padding: 10px;
 }
 /* new flex */
 
-.team-section{
-    background-color:darkorange;
+.team-section {
+  background-color: chartreuse;
+  padding: 50px 0;
 }
-.container{
-    width: 90%;
-    padding: 50px;
-    margin: auto;
+.container {
+  width: 90%;
+  margin: auto;
+}
+.section-title {
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+.team-members {
+  display: flex;
+  justify-content: space-between;
+}
+.member {
+  width: 24%;
+}
+.member img {
+  width: 100%;
 }
