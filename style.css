@@ -19,3 +19,13 @@ box-sizing: border-box;
     background-color: aqua;
     padding: 10px;
 }
+/* new flex */
+
+.team-section{
+    background-color:darkorange;
+}
+.container{
+    width: 90%;
+    padding: 50px;
+    margin: auto;
+}
