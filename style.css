@@ -1,4 +1,4 @@
-h2 {
+h1 {
   margin: 20px;
   text-align: center;
   color: red;
@@ -42,4 +42,7 @@ h2 {
 }
 .member img {
   width: 100%;
+}
+.member h2{
+    
 }
