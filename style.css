@@ -1,4 +1,15 @@
 .baba{
-
-    
+display: flex;
+justify-content: space-between;
+box-sizing: border-box;
+}
+.chela{
+    width: 45%;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.maya{
+    width: 45%;
+    background-color: aqua;
+    padding: 10px;
 }
