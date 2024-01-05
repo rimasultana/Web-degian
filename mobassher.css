@@ -7,11 +7,26 @@
 
 }
 .section-1{
-    background-image: url("image/black.jpg");
+    background-image: url("image/white.jpg");
     background-repeat: no-repeat;
-    padding: 280px 0x;
+    padding: 280px 0;
     text-align: center;
 }
 .section-1 h1{
     color: aliceblue;
+    font-size: 45px;
+
+}
+.color{
+    color: blue;
+    background-color: beige;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+.color:hover{
+    color:black;
+    background-color: chartreuse;
+    border-radius: 35%;
 }
