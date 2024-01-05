@@ -1,10 +1,14 @@
-@media (max-with: 600px) {
-    h1{
+@midia (max-width: 500px) {
+    .manu{
         
     }
 }
 
 
+.manu{
+    background-color: chocolate;
+    color: azure;
+}
 
 h1{
     font-size: 35px;
