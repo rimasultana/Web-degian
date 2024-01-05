@@ -17,6 +17,10 @@
     font-size: 45px;
 
 }
+h1 span{
+    color: red;
+    font-size: 60px;
+}
 .color{
     color: blue;
     background-color: beige;
