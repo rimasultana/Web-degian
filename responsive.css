@@ -1,0 +1,27 @@
+@media (max-with: 600px) {
+    h1{
+        
+    }
+}
+
+
+
+h1{
+    font-size: 35px;
+    color: blue;
+    text-align: center;
+    margin: 50px auto;
+}
+p{
+     text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    color: cadetblue;
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+
