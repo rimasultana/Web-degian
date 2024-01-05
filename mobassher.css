@@ -34,3 +34,15 @@ h1 span{
     background-color: chartreuse;
     border-radius: 35%;
 }
+.section-2{
+    width: 250px;
+    height: 250px;
+    background:linear-gradient(45deg , red 50% , green 50%) ;
+    margin: 100px auto;
+    transition: 1s;
+ 
+}
+.section-2:hover{
+    box-shadow: 15px 15px 35px peru;
+
+}
