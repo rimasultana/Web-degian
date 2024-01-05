@@ -6,6 +6,7 @@
     font-family: 'Lato', sans-serif;
 
 }
+
 .section-1{
     background-image: url("image/white.jpg");
     background-repeat: no-repeat;
@@ -46,4 +47,15 @@ h1 span{
 .section-2:hover{
     box-shadow: 0px 0px 35px peru;
 
+}
+.section3{
+    text-align: center;
+}
+
+.text{
+    width: 250px;
+    height: 250px;
+    margin: auto; 
+
+     
 }
