@@ -40,6 +40,7 @@ h1 span{
     background:linear-gradient(45deg , red 50% , green 50%) ;
     margin: 100px auto;
     transition: 1s;
+    transform: skewX(45deg);
  
 }
 .section-2:hover{
