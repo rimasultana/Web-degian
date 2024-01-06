@@ -1,3 +1,24 @@
+@media (max-width:1300px) 
+{
+    body{
+        background-color: #5d5458;
+        color: aqua; }}
+
+ @media (max-width:900px) {
+    body{
+        background-color: #FFC312;
+        color:red ;
+    }
+    
+ }    
+ @media (max-width:500px) {
+    body{
+        background-color: darkcyan;
+        color: beige;
+    }
+    
+ }   
+
 *{
     margin:0;
     padding: 0;
