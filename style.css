@@ -71,3 +71,10 @@ h1 {
 .member h2{
     
 }
+
+
+@media (max-width:900px) {
+  .manu{
+    background-color: brown;
+  }
+}

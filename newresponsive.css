@@ -1,10 +1,31 @@
-.team-container{
+@media (max-width:500px) {
+    .team-container{
+        background-color: chocolate;
+    }
+    
+}
 
+.team-container{
+background-color: antiquewhite;
+padding: 100px auto;
 }
 .container{
     width: 90%;
     height: auto;
 }
 .team-members{
-    
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+
+}
+.member{
+    width: 23.5%;
+
+}
+.member img{
+    width: 100%;
+    height: auto;
+    display: block;
+
 }
