@@ -1,9 +1,10 @@
 @media (max-width:500px) {
-    .team-container{
-        background-color: chocolate;
+    .member{
+        width: 23.5%;
     }
     
 }
+
 
 .team-container{
 background-color: antiquewhite;
@@ -20,7 +21,7 @@ padding: 100px auto;
 
 }
 .member{
-    width: 23.5%;
+    width: 48%;
 
 }
 .member img{
